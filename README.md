@@ -13,7 +13,7 @@ Node, MongoDB capabilities, AWS Account, and of course, a browser.
 
 - Link with more information about how to do this step: https://docs.aws.amazon.com/es_es/AmazonS3/latest/userguide/create-bucket-overview.html
 
-### 3. Once you have created the bucket in S3, go to the foler ./api/routes/index.js. Then, put the name of the bucket in the variable called "bucketName".
+### 3. Once you have created the bucket in S3, go to the folder ./api/routes/index.js. Then, put the name of the bucket in the variable called "bucketName".
 
 ### 4. You will need to get your AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY from you dashboard in AWS.
 
@@ -31,7 +31,7 @@ Node, MongoDB capabilities, AWS Account, and of course, a browser.
 
 ### 7. Repeat step 6 but with the following commands:
 
-`cd app` -> to enter the app front folder.
+`cd app` -> to enter the app folder.
 `npm install` -> to install all dependencies.
 
 ### 8. Open 1 terminal in the folder /api/ and run:
