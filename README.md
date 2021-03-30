@@ -26,12 +26,12 @@ Node, MongoDB capabilities, AWS Account, and of course, a browser.
 
 ## 6. In your terminal, go to the folder that contains the root of the project. Then run the following commands:
 
-`cd api` -> to enter the server foler.
+`cd api` -> to enter the server folder.
 `npm install` -> to install all dependencies.
 
 ### 7. Repeat step 6 but with the following commands:
 
-`cd app` -> to enter the app / front foler.
+`cd app` -> to enter the app front folder.
 `npm install` -> to install all dependencies.
 
 ### 8. Open 1 terminal in the folder /api/ and run:
